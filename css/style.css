@@ -1,0 +1,59 @@
+body {
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAFklEQVQImWMwMjJKYyAKGBkZGWOVAABS4gHGVw9s1gAAAABJRU5ErkJggg==) repeat;
+	padding-bottom: 60px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+footer {
+	position: fixed;
+	box-sizing: content-box;
+	bottom: 0;
+	width: 100%;
+	height: 20px;
+	padding: 10px;
+	box-shadow: -1px 0 6px #eee;
+}
+
+a {
+	color: #ffab40;
+}
+
+.space {
+	height: 100px;
+}
+
+.calc {
+	position: relative;
+	width: 320px;
+	height: 400px;
+	margin: 0 auto;
+}
+
+.screen {
+	height: 80px;
+	width: 100%;
+	padding: 15px 9px;
+	font-size: 2.5em;
+	text-align: right;
+	box-shadow: inset 0 -1px 3px 1px #111;
+}
+
+.buttons > button {
+	float: left;
+	height: 64px;
+	border: 1px solid #111;
+	font-size: 1.5em;
+}
+
+.btn1 {
+	width: 80px;
+}
+
+.btn2 {
+	width: 160px;
+}
+
+.clear-float {
+	clear: both;
+}
