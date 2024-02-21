@@ -1,5 +1,5 @@
 # Calculator
 
-A calculator web app made with Javascript.
+A simple calculator web app made with vanilla JS.
 
-This project is in response to the challenge "[Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)" and has been developed as a part of the curriculum at [Free Code Camp](http://freecodecamp.com) towards the completion and achievement of **Full Stack Web Developer** certification.
+This project was made as part of an old curriculum at [Free Code Camp](http://freecodecamp.com) towards the completion and achievement of **Full Stack Web Developer** certification.
